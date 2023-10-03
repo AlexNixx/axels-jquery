@@ -1,0 +1,37 @@
+html {
+  color: #222;
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#cityInput {
+  padding: 10px;
+  font-size: 16px;
+}
+
+#suggestions {
+  list-style: none;
+  padding: 0;
+}
+
+#suggestions li {
+  cursor: pointer;
+  padding: 10px;
+}
+
+#weatherInfo {
+  margin-top: 30px;
+}
+
+#weeklyForecast {
+  margin-top: 20px;
+}
